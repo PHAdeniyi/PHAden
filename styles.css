@@ -1,0 +1,24 @@
+body{
+    background-color: rgb(88, 86, 86);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: azure;
+}
+.nav-list{
+    list-style-type:none;
+    padding: ;
+    margin-right: 10%;
+    display: flex;
+    justify-content: flex-end;
+}
+.nav-list li{
+    margin-right: 50px;
+}
+#f1{
+    font-size: 300%;
+}
+h2{
+    font-size: 200%;
+}
+p{
+    font-size: 110%;
+}
